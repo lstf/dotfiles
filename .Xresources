@@ -1,0 +1,42 @@
+URxvt.font: xft:Droid Sans Mono:size=12
+URxvt.scrollBar: false
+
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+
+! special
+URxvt.background: 	#272727
+URxvt.foreground:   #e1e1e1
+URxvt.cursorColor:  #e1e1e1
+
+! black
+URxvt.color0:       #282a2e
+URxvt.color8:       #373b41
+
+! red
+URxvt.color1:       #e64569
+URxvt.color9:       #dbbdbd
+
+! green
+URxvt.color2:       #89d287
+URxvt.color10:      #a2cca1
+
+! yellow
+URxvt.color3:       #dab752
+URxvt.color11:      #e1e387
+
+! blue
+URxvt.color4:       #439ecf
+URxvt.color12:      #6fbbe2
+
+! magenta
+URxvt.color5:       #d961dc
+URxvt.color13:      #e586e7
+
+! cyan
+URxvt.color6:       #64aaaf
+URxvt.color14:      #96dcda
+
+! white
+URxvt.color7:       #b3b3b3
+URxvt.color15:      #dedede
